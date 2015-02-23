@@ -3,4 +3,4 @@ A color scheme for sublime text 2/3 fit [Spacegray](https://github.com/kkga/spac
 
 ![html](Screenshots/Lightgray-html.png)
 
-![html](Screenshots/Lightgray-javascript.png)
+![javascript](Screenshots/Lightgray-javascript.png)
