@@ -16,9 +16,9 @@
 		<string>#75715E</string>
 	</dict>
 	<key>name</key>
-	<string>PR&apos;s Monokai</string>
+	<string>Lightgray</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai_pr</string>
+	<string>theme.lightgray</string>
 	<key>settings</key>
 	<array>
 		<dict>
